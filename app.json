@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.clintcaserial.QRATT"
+      "package": ""
     },
     "web": {
       "output": "static",
@@ -50,6 +50,6 @@
         "projectId": "d8e02647-a445-4a25-a6ed-5ffb3ef851a4"
       }
     },
-    "owner": "clint03"
+    "owner": ""
   }
 }
